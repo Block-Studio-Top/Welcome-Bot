@@ -1,0 +1,8 @@
+{
+    "welcome_channel_id": 992442204712865822,
+    "goodbye_channel_id": 992442204712865822,
+    "rules_channel_id": 1011488764297756722,
+    "info_channel_id": 1288273362602299423,
+    "default_avatar": "https://example.com/default_avatar.png",
+    "goodbye_image": "https://example.com/goodbye_image.png"
+}
